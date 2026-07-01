@@ -3,7 +3,6 @@
 
 # @seneca/sql-util
 
-[![npm version](https://img.shields.io/npm/v/@seneca/sql-util.svg)](https://npmjs.com/package/@seneca/sql-util)
 [![build](https://github.com/senecajs/seneca-sql-util/actions/workflows/build.yml/badge.svg)](https://github.com/senecajs/seneca-sql-util/actions/workflows/build.yml)
 [![Known Vulnerabilities](https://snyk.io/test/github/senecajs/seneca-sql-util/badge.svg)](https://snyk.io/test/github/senecajs/seneca-sql-util)
 
