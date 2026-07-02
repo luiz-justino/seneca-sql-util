@@ -1,0 +1,10 @@
+{
+  "name": "@seneca/sql-util",
+  "version": "0.0.1",
+  "description": "SQL utility functions for Seneca data store plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
